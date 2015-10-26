@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DebsCustomTag">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../DebsCustomTag/out/artifacts/DebsCustomTag/DebsCustomTag.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
